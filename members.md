@@ -95,7 +95,8 @@ Format:
 | Holly Styles | [hollystyles](https://github.com/hollystyles) | 12 years experience LOB apps using Microsoft stack. Interested in everything programming. |
 | Howlden Coalfield | [howlden](https://github.com/howlden) | Law school dropout learning Python with 6.00x (edx.org), also want to learn C (low-level fascinates me, interface with hardware, etc.), and trying my hand at CSS/HTML and PHP on a Wordpress blog. Looking to kickstart a career in CS, need mentors and a plan. | 
 | Ian | [boomzilla](https://github.com/boomzilla) ||
-| Isiah Wheeler | [isiahw1](https://github.com/isiahw1) | Went through Python and Java tracks at Codecademy and looking to expand experience |
+| Isiah Wheeler | [isiahw1](https://github.com/isiahw1) | Went t
+| Jackie Horowitz | [jackiehorowitz](https://github.com/jackiehorowitz) | Know PHP, basic Java, and much front-end developement. Looking to collaborate on meaningful projects. |
 | Jack Taylor-Crush | [jxtcman](https://github.com/jxtcman) ||
 | Jake Choi | [wisupreme](https://github.com/wisupreme) | Have knowledge in Java. Eager to learn anything and want to contribute in open source.|
 | Jake Myers | [jmyers0022](https://github.com/jmyers0022) | Learning Ruby/Rails - Looking forward to contributing to open source projects |
